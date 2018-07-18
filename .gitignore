@@ -1,0 +1,17 @@
+__pycache__/
+!.gitignore
+.Python
+*.pyc
+.DS_Store
+bin/
+include/
+lib/
+share/
+pip-selfcheck.json
+crontab/log/
+migrations/
+.pylintrc
+.env
+.pythonrc
+venv
+.idea
